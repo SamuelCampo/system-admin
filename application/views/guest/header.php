@@ -14,10 +14,8 @@
             </div>
 
             <nav class="nav flex-column">
-              <a class="nav-link active" href="#">Product</a>
-              <a class="nav-link" href="#">Order shopping</a>
-              <a class="nav-link" href="#">Link</a>
-              <a class="nav-link" href="#">Disabled</a>
+              <a class="nav-link active" href="<?php echo base_url('index.php/home/') ?>">Product</a>
+              <a class="nav-link" href="<?php echo base_url('index.php/OrderShop/') ?>">Order shopping</a>
             </nav>
         </div>
     </div>

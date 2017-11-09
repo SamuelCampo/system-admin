@@ -11,7 +11,7 @@
         <a class="nav-link" href="/shop">MODIFICAR <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="<?php echo base_url('Home/add_product') ?>">AGREGAR NUEVO</a>
+        <a class="nav-link" href="<?php echo base_url('index.php/Home/add_product') ?>">AGREGAR NUEVO</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="/shop/category">ELIMINAR</a>
